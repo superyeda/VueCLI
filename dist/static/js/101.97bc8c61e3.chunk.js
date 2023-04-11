@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkvuecli=self.webpackChunkvuecli||[]).push([[101],{6101:(e,u,n)=>{n.r(u),n.d(u,{default:()=>r});var c=n(5500);const l={},r=(0,n(7068).Z)(l,[["render",function(e,u){return(0,c.wg)(),(0,c.iD)("h1",null,"About")}]])}}]);
+//# sourceMappingURL=101.97bc8c61e3.chunk.js.map
